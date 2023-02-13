@@ -27,5 +27,6 @@ The cornerstone of these research works is an extensive inter-comparison exercis
 
 Funding info
 ------
-ANR-22-CE56-0006-01
+Grant number: ANR-22-CE56-0006-01
+
 <img src="/images/ANR.jpg"  width="20%" height="10%">
