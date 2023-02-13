@@ -8,4 +8,7 @@ main:
   
   - title: "Highlights & Demo"
     url: /portfolio/
+  
+  - title: "Events"
+    url: /year-archive/
     
