@@ -25,6 +25,7 @@ HOUSES will address research questions at different levels:
 
 The cornerstone of these research works is an extensive inter-comparison exercise based on real cases in geo-environments covering a large spectrum of situations (number, quality, spatial distribution of the data, a priori information on the physical processes, support for information aggregation, etc.). The cases correspond to pollutant concentration mapping for urban soils in Toulouse city, groundwater contamination by trace element in Paris basin, dune erosion in coastal environments and geophysical monitoring. Beyond the project, this will offer a new opportunity to consolidate a community regarding this difficult and trans-disciplinary question by fostering exchanges and new ideas with other research teams using a data competition/hackathon as a basis of discussion.
 
-For more info
+Funding info
 ------
+ANR-22-CE56-0006-01
 <img src="/images/ANR.jpg"  width="20%" height="10%">
