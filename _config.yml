@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "ANR HOUSES"
   avatar           : "HOUSES-1.png"
-  bio              : "Research Project funded by the french Research Agency (ANR)"
+  bio              : "Research Project (funded by the French Research Agency ANR) on uncertainty management in spatial analysis using Geostatistics"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : j.rohmer@brgm.fr
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
