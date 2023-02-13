@@ -27,4 +27,4 @@ The cornerstone of these research works is an extensive inter-comparison exercis
 
 For more info
 ------
-![ANR](/images/ANR.jpg)
+<img src="/images/ANR.jpg"  width="60%" height="30%">
