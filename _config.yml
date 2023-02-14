@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "ANR HOUSES"
   avatar           : "HOUSES-1.png"
-  bio              : <Div Align=Center> Research Project (funded by the French Research Agency ANR) on uncertainty management in geostatistical spatial analysis with application in geo-sciences.<BR> Contact: Jeremy Rohmer (BRGM) </Div>
+  bio              : "<Div Align=Center> Research Project (funded by the French Research Agency ANR) on uncertainty management in geostatistical spatial analysis with application in geo-sciences.<BR> Contact: Jeremy Rohmer (BRGM) </Div>"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
