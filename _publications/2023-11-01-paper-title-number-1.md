@@ -1,8 +1,8 @@
 ---
-title: "literature review"
+title: "Literature review"
 collection: publications
 permalink: /publication/2023-11-01-paper-title-number-1
-excerpt: 'Literature review'
+excerpt: 'A literature review of methods used to establish urban soil geochemical background'
 date: 2023-11-01
 venue: 'Journal of Geochemical Exploration'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0375674223001450'
