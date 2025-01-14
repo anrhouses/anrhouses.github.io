@@ -1,7 +1,7 @@
 ---
 title: "Sensitivity Analysis"
 collection: publications
-permalink: /publication/2025-01-14-paper-title-number-3
+permalink: /publication/2025-01-14-paper-title-number-4
 excerpt: 'Importance Ranking of Modelling Choices in Quantile Regression Forest-Based Spatial Predictions When Data are Sparse, Imprecise and Clustered'
 date: 2025-01-14
 venue: 'Ecological Informatics'
