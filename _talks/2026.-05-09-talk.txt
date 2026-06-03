@@ -1,0 +1,12 @@
+---
+title: "Dealing with imperfect knowledge in natural hazard assessments: beyond classical probabilities and challenges"
+collection: talks
+type: "Talk"
+permalink: /talks/2026-05-08-talk
+venue: "EGU 2026"
+date: 2026-5-08
+location: "Vienna (Austria)"
+paperurl: 'https://meetingorganizer.copernicus.org/EGU26/EGU26-17687.html'
+---
+Invited talk at [EGU 2026](https://www.egu26.eu/) in the [session](https://meetingorganizer.copernicus.org/EGU26/session/57317).
+[Download presentation here]()

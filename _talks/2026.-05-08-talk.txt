@@ -1,0 +1,12 @@
+---
+title: "Global Sensitivity Analysis of Spatial Interpolation for Sparse, Clustered, and Censored Data: A Case Study of Groundwater Sulfate in the Paris Basin"
+collection: talks
+type: "Talk"
+permalink: /talks/2026-05-08-talk
+venue: "EGU 2026"
+date: 2026-5-08
+location: "Vienna (Austria)"
+paperurl: ''
+---
+Presentation of Pertchtold's postdoc results at [EGU 2026](https://www.egu26.eu/) in the [session](https://meetingorganizer.copernicus.org/EGU26/session/56153) co-organised with anr HOUSES.
+[Download presentation here]()
