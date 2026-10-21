@@ -1,0 +1,11 @@
+---
+title: 'Presentation at ENBIS 2026'
+collection: talks
+type: "Talk"
+permalink: /talks/2026-09-07-talk
+venue: "ENBIS 2026"
+date: 2026-09-07
+location: "Florence (Italy)"
+paperurl: 'https://conferences.enbis.org/event/82/contributions/1112/'
+---
+Presentation on the comparison exercise for conducting sensitivty analysis with maps.
