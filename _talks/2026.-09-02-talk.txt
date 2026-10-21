@@ -1,0 +1,12 @@
+---
+title: 'Presentation at Climate Change and Insurance 2026'
+collection: talks
+type: "Talk"
+permalink: /talks/2026-09-02-talk
+venue: "Climate Change and Insurance 2026"
+date: 2026-09-07
+location: "Segovia (Spain)"
+paperurl: 'https://cci26.climateinsure.tech/'
+---
+Presentation by C. Perchtold on the applicaiton of the global sensitivty analysis adapted to maps for marine flooding.
+
